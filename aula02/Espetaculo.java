@@ -8,7 +8,6 @@ public class Espetaculo {
         float custoProducao = entrada.nextFloat();
         System.out.print("valor do ingresso");
         float valorIngresso = entrada.nextFloat();
-
         int qtdeConvites = (int) Math.ceil(custoProducao / valorIngresso);
         int qtdeConvites23 = (int)Math.ceil(custoProducao*1.23/valorIngresso);
         System.out.printf("quantidade de convites = %d\n", qtdeConvites);
