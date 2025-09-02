@@ -1,0 +1,5 @@
+Teclado do professor;50.00;Logitech
+Mouse;35.00;Microsoft
+Pão de queijo;100.00;Borges
+Coca-cola;10.00;Bar do Zé
+Teclado Multimidia;200.00;Microsoft
